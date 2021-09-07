@@ -35,10 +35,15 @@ Exploratory Data Analysis of the dataset
 Metrics Used: F1 score with a higher recall score and considerable precision score as the evaluation metrics.
 Model training:
 Created various models like:
-1) Logistic Classifier	2) Decision Tree Classifier 
-3) Random Forest Classification Model 	4) LGBM 
+1) Logistic Classifier	
+2) Decision Tree Classifier 
+3) Random Forest Classification Model
+4) LGBM 
 5) XGB 
+
+
 and other classification models and fitted the train data to each model. 
+
 Considering the bias variance trade-off and the evaluation metrics, the best performing model was Random Forest Classifier with optimized parameters.
 
 ![image](https://user-images.githubusercontent.com/43726919/132326245-625669b2-893e-48b7-8fc3-16e0dc0f25d4.png)
