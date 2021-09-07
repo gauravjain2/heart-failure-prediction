@@ -5,7 +5,7 @@
 Data Science Project to assess the likelihood of a death event by heart failure.
 This can be used to help hospitals in assessing the severity of patients with cardiovascular diseases.
 
-Link to Website: [https://heart-failure-prediction-app.herokuapp.com/](https://heart-failure-prediction-app.herokuapp.com/)
+Link to Website: [Click Here](https://sites.google.com/view/heart-failure-project/)
 
 ---
 
